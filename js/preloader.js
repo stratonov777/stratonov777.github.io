@@ -7,7 +7,7 @@ $(window).on('load', function () {
     setTimeout(function (){
         $("h1").fadeIn().addClass( "animate__animated animate__rotateInUpLeft" );
         $("div#logo").fadeIn().addClass( "animate__animated animate__rotateInDownLeft" );    
-      }, 1500);
+      }, 500);
     
 });
 
